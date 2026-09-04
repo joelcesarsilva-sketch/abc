@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <style>
+        header {
+            background-color: #92c6fd;
+            color: #FFFFFF;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+           
+        }   
+
+      main {
+          background-color: #FFFFFF;
+          color: #92c6fd;
+          max-width: 800px;
+          margin: 0 auto;
+          padding : 16px;
+          display: flex;
+       }  
+     img{  
+      width: 80px;
+      height: 80px;
+    }
+        </style>
+</head>
+<body>
+   <header> 
+   
+         <h1> meu blog tech</h1>
+        <p> vou conpartilhar conhecimentos sobre
+         tecnologia e programação</p>
+   </header>
+   <main> 
+      <img src="imagem1.png" alt="Ilustração vetorial do blog Tech
+       Pulse mostrando um ambiente de trabalho moderno com elementos de 
+       tecnologia, inteligência artificial e inovação digital."> 
+    <h2> meu primeiro post</h2>
+        <p>Por: Maria Eduarda</p>
+        <p> Boas vindas ao meu blog! Aqui vou
+        compartilhar dicas de programação e curiosidades
+        ma area da tecnologia.</p>
+         </main>
+    </body>
+</html>
